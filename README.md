@@ -11,3 +11,5 @@ is effective for time series analysis. It is capable of learning patterns in non
 
 Similar projects in the literature provide short-term predictions, however,
 here, the prediction window was greatly improved by extending it to 32 hours.
+
+A full write-up is included in the file "Thesis".
