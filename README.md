@@ -3,7 +3,7 @@ Thesis/research project. Long Short Term Memory (deep learning model) for predic
 
 This project was completed by me in May 2022 as an Applied Research Project in part fulfilment of a MSc in Data Analytics.
 
-Coastal water data was used from the Marine Institute and contains data on physico-chemical properties of seawater,
+Coastal water data from the Marine Institute was used and contains information on physico-chemical properties of seawater,
 obtained by monitoring buoys off the coast of Co. Galway, Ireland.
 
 A Long Short Term Memory model was used for the prediction of dissolved oxygen levels. This deep learning model was suitable as it
